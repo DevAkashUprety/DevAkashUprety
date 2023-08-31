@@ -1,3 +1,4 @@
+![logo](https://github.com/DevAkashUprety/DevAkashUprety/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akash Uprety</h1>
 <h3 align="center">A passionate Java & Python developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
